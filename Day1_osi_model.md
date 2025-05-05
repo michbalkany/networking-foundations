@@ -18,5 +18,5 @@ IPv4, IPv6, ICMP (used for pinging, check if your online or not) nd IGMP (used f
 7) Application - This layer is the USER, it is where all kinds of app live and interact with the network. Protocols used for this layer would be HTTP/HTTPS (websites when your googling something), FTP (file transfers), SMTP (email stuff), DNS(turns google.com into an IP address), and SSH(secure remote login)
 
 
-
+![OSI Model Diagram](assets/osi_model_diagram.drawio.png)
 
